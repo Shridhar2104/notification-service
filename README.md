@@ -1,3 +1,4 @@
+
 # High-Scale Notification Platform (HSNP)
 
 This repository contains the Phase I implementation of the High-Scale Notification Platform. It includes:
@@ -46,3 +47,4 @@ npm run dev
 ```
 
 The UI will be available at `http://localhost:3000`.
+
